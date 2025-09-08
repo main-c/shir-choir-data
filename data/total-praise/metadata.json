@@ -1,0 +1,35 @@
+{
+  "id": "total-praise",
+  "title": "Total Praise",
+  "composer": "Richard Smallwood",
+  "key": "C# major",
+  "duration": 180,
+  "createdAt": "2024-12-08T10:00:00Z",
+  "version": 1,
+  "voicePartKeys": {
+    "soprano": "C major",
+    "alto": "C major",
+    "tenor": "C major",
+    "bass": "C major"
+  },
+  "lyrics": {
+    "english": "Lord, I will lift my eyes to the hills\nKnowing my help is coming from You\nYour peace You give me in time of the storm\nYou are the source of my strength\nYou are the strength of my life\nI lift my hands in total praise to You\nYou are the source of my strength\nYou are the strength of my life\nI lift my hands in total praise to You\nAmen, Amen, Amen, Amen\nAmen, Amen, Amen, Amen\nYou are the source of my strength\nYou are the strength of my life\nI lift my hands in total praise to You\nAmen, Amen, Amen, Amen\nAmen, Amen, Amen, Amen"
+  },
+  "audioUrls": {
+    "soprano": "data/total-praise/audio/Total Praise - SATB with PIANO ACCOMPANIMENT.mp3",
+    "alto": "data/total-praise/audio/Total Praise - SATB with PIANO ACCOMPANIMENT.mp3",
+    "tenor": "data/total-praise/audio/Total Praise - SATB with PIANO ACCOMPANIMENT.mp3",
+    "bass": "data/total-praise/audio/Total Praise - SATB with PIANO ACCOMPANIMENT.mp3"
+  },
+  "maestroNotes": {
+    "soprano": "Mélodie principale simple et claire",
+    "alto": "Harmonies en tierces",
+    "tenor": "Soutien harmonique",
+    "bass": "Fondation en accords simples"
+  },
+  "partitions": {
+    "label": "Partitions",
+    "type": "pdf",
+    "url": "/data/total-praise/partitions/Total-Praise-Richard-Smallwood-arr-Doreen-Rao-1.pdf"
+  }
+}
