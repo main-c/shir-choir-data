@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2024-12-08T10:00:00Z",
+  "last_updated": "2024-12-08T12:00:00Z",
   "chants": [
     {
       "id": "total-praise",
@@ -21,6 +21,96 @@
       "size_mb": 11.2,
       "duration": 337,
       "key": "C major"
+    },
+    {
+      "id": "and-the-glory",
+      "title": "And the Glory of the Lord",
+      "composer": "George Frideric Handel",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 12.0,
+      "duration": 180,
+      "key": "A major"
+    },
+    {
+      "id": "hallelujah-messiah",
+      "title": "Hallelujah Chorus",
+      "composer": "George Frideric Handel",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 14.0,
+      "duration": 240,
+      "key": "D major"
+    },
+    {
+      "id": "since-by-man",
+      "title": "Since by Man Came Death",
+      "composer": "George Frideric Handel",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 8.0,
+      "duration": 120,
+      "key": "C minor"
+    },
+    {
+      "id": "worthy-is-the-lamb",
+      "title": "Worthy is the Lamb",
+      "composer": "George Frideric Handel",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 13.0,
+      "duration": 210,
+      "key": "D major"
+    },
+    {
+      "id": "dans-ma-detresse",
+      "title": "Dans ma détresse",
+      "composer": "Heaven Voices",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 10.0,
+      "duration": 38,
+      "key": "E major"
+    },
+    {
+      "id": "a-celui-qui-peut",
+      "title": "À celui qui peut",
+      "composer": "Heaven Voices",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 8.0,
+      "duration": 180,
+      "key": "G major"
+    },
+    {
+      "id": "jaime-mieux",
+      "title": "J'aime mieux",
+      "composer": "Inconnu",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 12.0,
+      "duration": 200,
+      "key": "C major"
+    },
+    {
+      "id": "heureux-mariage",
+      "title": "Heureux mariage",
+      "composer": "Heaven Voices",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 7.0,
+      "duration": 180,
+      "key": "D major"
+    },
+    {
+      "id": "my-only-hope",
+      "title": "My Only Hope",
+      "composer": "Heaven Voices",
+      "version": 1,
+      "last_updated": "2024-12-08T12:00:00Z",
+      "size_mb": 9.0,
+      "duration": 220,
+      "key": "G major"
     }
   ]
 }
